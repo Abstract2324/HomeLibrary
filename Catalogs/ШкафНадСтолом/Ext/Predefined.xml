@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="d117935d-6cc9-4757-b7a0-4ed8ee2c25fe">
+		<Name>ВтораяПолка</Name>
+		<Code>000000002</Code>
+		<Description>Вторая полка</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="ca74bd84-abd5-4692-ab77-2023f5e54587">
+		<Name>ПерваяПолка</Name>
+		<Code>000000001</Code>
+		<Description>Первая полка</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="2e7ce848-dd3f-4de4-be3e-c9c81487197e">
+		<Name>ТретьяПолка</Name>
+		<Code>000000003</Code>
+		<Description>Третья полка</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>

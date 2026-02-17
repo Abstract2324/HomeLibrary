@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.20">
+	<Item id="63a6f13f-c7c2-4a94-bf5a-cd300b38c9f7">
+		<Name>ВерхняяАнтресоль</Name>
+		<Code>000000001</Code>
+		<Description>Верхняя антресоль</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="d2b07895-84d8-477b-9b5b-bf86ef47822d">
+				<Name>ВерхняяПолка</Name>
+				<Code>000000002</Code>
+				<Description>Верхняя полка</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+			<Item id="11e30a61-ab11-4f19-952c-b4172d443b92">
+				<Name>НижняяПолка</Name>
+				<Code>000000003</Code>
+				<Description>Нижняя полка</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="fa66a8a8-fb8c-4978-b7f5-3f64d29d027f">
+		<Name>Верхняя</Name>
+		<Code>000000004</Code>
+		<Description>Верхняя полка</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="3ef74997-316b-4e5a-9f70-e902fc274894">
+		<Name>НижняяАнтресоль</Name>
+		<Code>000000007</Code>
+		<Description>Нижняя антресоль</Description>
+		<IsFolder>true</IsFolder>
+		<ChildItems>
+			<Item id="2349983c-ea45-41c7-a6cf-3599c38e1862">
+				<Name>Верхняя1</Name>
+				<Code>000000008</Code>
+				<Description>Верхняя полка</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+			<Item id="601db518-8142-4272-aca4-4ab902137a45">
+				<Name>Нижняя1</Name>
+				<Code>000000009</Code>
+				<Description>Нижняя полка</Description>
+				<IsFolder>true</IsFolder>
+			</Item>
+		</ChildItems>
+	</Item>
+	<Item id="e78ff552-a008-4457-a274-b91d36032e45">
+		<Name>Нижняя</Name>
+		<Code>000000006</Code>
+		<Description>Нижняя полка</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="462a2ffc-445b-4060-b5e6-f2b9308f84ec">
+		<Name>Средняя</Name>
+		<Code>000000005</Code>
+		<Description>Средняя полка</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
