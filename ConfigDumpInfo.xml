@@ -84,12 +84,14 @@
 		<Metadata name="Catalog.ШкафТелевизор.ManagerModule" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.3" configVersion="038ab87288d1c94a95bb8780a3f0f87c00000000"/>
 		<Metadata name="Catalog.ШкафТелевизор.ObjectModule" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.0" configVersion="24f24537f0604742baff791e3e5d061c00000000"/>
 		<Metadata name="Catalog.ШкафТелевизор.Predefined" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.1c" configVersion="c9e85f4f7041fb47aa07ae24a5cc22f800000000"/>
-		<Metadata name="Configuration.Конфигурация" id="58b328fb-3ee0-40c0-a7cf-7eb8c36a5666" configVersion="9ea921b18d54374a8de7d5414809366e00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="58b328fb-3ee0-40c0-a7cf-7eb8c36a5666" configVersion="3041e59819e5c0419fc963854cad173300000000"/>
+		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="a02e991d-8f99-459b-8740-6f03bc866bfe.b" configVersion="2df2225d112f7540857eb19e32c6afc200000000"/>
+		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="a02e991d-8f99-459b-8740-6f03bc866bfe.9" configVersion="0bc3eb8ae2c38e49a398a75b5d2496a700000000"/>
 		<Metadata name="DataProcessor.ПолучитьОбновления" id="a3bf9b79-e89f-4a56-b5a0-b139d119a3ec" configVersion="29c6244a73812e4eb0370b5375eca3e200000000">
 			<Metadata name="DataProcessor.ПолучитьОбновления.Attribute.Коммит" id="a00e38f5-fc92-430a-989f-b341a9002353"/>
 		</Metadata>
-		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма" id="ec4d0b76-afec-4897-9333-6ecaa975f948" configVersion="5939a0d8865b1043aa222fd72381695800000000"/>
-		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма.Form" id="ec4d0b76-afec-4897-9333-6ecaa975f948.0" configVersion="d7ac2c14bf56e845bb6e6c958cd4894500000000"/>
+		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма" id="ec4d0b76-afec-4897-9333-6ecaa975f948" configVersion="bbba727d70a32847a2e8bdf4d6ec60e700000000"/>
+		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма.Form" id="ec4d0b76-afec-4897-9333-6ecaa975f948.0" configVersion="3ccfa12b6ad5d241abdebadf5d3bd7cf00000000"/>
 		<Metadata name="InformationRegister.ИсторияВерсий" id="81d8c3db-6bc2-4322-b4a1-a4ad49395136" configVersion="be4507a6916d684799527e4465d0d89600000000">
 			<Metadata name="InformationRegister.ИсторияВерсий.Dimension.Версия" id="6f64a676-3b9b-4714-a4aa-0fb94dbc97cb"/>
 		</Metadata>
