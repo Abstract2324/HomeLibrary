@@ -90,8 +90,8 @@
 		<Metadata name="DataProcessor.ПолучитьОбновления" id="a3bf9b79-e89f-4a56-b5a0-b139d119a3ec" configVersion="29c6244a73812e4eb0370b5375eca3e200000000">
 			<Metadata name="DataProcessor.ПолучитьОбновления.Attribute.Коммит" id="a00e38f5-fc92-430a-989f-b341a9002353"/>
 		</Metadata>
-		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма" id="ec4d0b76-afec-4897-9333-6ecaa975f948" configVersion="792cb5efb0dbb4438059e8916730196a00000000"/>
-		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма.Form" id="ec4d0b76-afec-4897-9333-6ecaa975f948.0" configVersion="514292077a4985409884b0a7b1a8f1bf00000000"/>
+		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма" id="ec4d0b76-afec-4897-9333-6ecaa975f948" configVersion="0640f62364db94408896f3b7d31c52d100000000"/>
+		<Metadata name="DataProcessor.ПолучитьОбновления.Form.Форма.Form" id="ec4d0b76-afec-4897-9333-6ecaa975f948.0" configVersion="c16b7c6b1336044ab6f92dfc58349d6800000000"/>
 		<Metadata name="InformationRegister.ИсторияВерсий" id="81d8c3db-6bc2-4322-b4a1-a4ad49395136" configVersion="be4507a6916d684799527e4465d0d89600000000">
 			<Metadata name="InformationRegister.ИсторияВерсий.Dimension.Версия" id="6f64a676-3b9b-4714-a4aa-0fb94dbc97cb"/>
 		</Metadata>
