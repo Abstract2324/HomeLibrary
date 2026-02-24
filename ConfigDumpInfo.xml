@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="Catalog.КнигиВКладовке" id="834a931d-bd15-4318-82dc-10173e1b5009" configVersion="461adc127fd3c64c93b0bf244b66c6d100000000">
+		<Metadata name="Catalog.Авторы" id="dd751212-8892-4297-a20f-d86677781b26" configVersion="f72030905dd28b4589a1260b19f54b0900000000"/>
+		<Metadata name="Catalog.КнигиВКладовке" id="834a931d-bd15-4318-82dc-10173e1b5009" configVersion="6ebea20df0db4e41b345495d8cb1665300000000">
 			<Metadata name="Catalog.КнигиВКладовке.TabularSection.Содержание.Attribute.Глава" id="0e2febf1-c77f-4a0c-b5b2-10d9ef635a94"/>
 			<Metadata name="Catalog.КнигиВКладовке.Attribute.Автор" id="15aa1343-e82a-4e18-8b33-4e2d10e0f7fe"/>
 			<Metadata name="Catalog.КнигиВКладовке.TabularSection.Содержание" id="1b3c525f-66a8-45be-9efb-c528bcf4d2ed"/>
@@ -10,7 +11,7 @@
 		<Metadata name="Catalog.КнигиВКладовке.Form.ФормаЭлемента" id="0534bff8-2b2e-4290-a681-3e5d247e5e31" configVersion="d9c1d55068d62d42a2a0ae8f2f77789700000000"/>
 		<Metadata name="Catalog.КнигиВКладовке.Form.ФормаЭлемента.Form" id="0534bff8-2b2e-4290-a681-3e5d247e5e31.0" configVersion="48c2ecee2352684ba1064f220938a2af00000000"/>
 		<Metadata name="Catalog.КнигиВКладовке.Predefined" id="834a931d-bd15-4318-82dc-10173e1b5009.1c" configVersion="11d27efe195c6147a70876419a9d1a4a00000000"/>
-		<Metadata name="Catalog.КнигиОтНиколаевой" id="a9cb7bb1-7ace-44f4-8671-bf2d3431b1b9" configVersion="1bf30f8804d4cb4981d8cb8f63b091e100000000">
+		<Metadata name="Catalog.КнигиОтНиколаевой" id="a9cb7bb1-7ace-44f4-8671-bf2d3431b1b9" configVersion="ee6733c05d32d747b73ddd1765d8b23600000000">
 			<Metadata name="Catalog.КнигиОтНиколаевой.Attribute.Автор" id="03b3b1fc-dd3a-4d76-8b82-6518fdaa585d"/>
 			<Metadata name="Catalog.КнигиОтНиколаевой.TabularSection.Содержание.Attribute.Страница" id="04a64f49-b689-4a93-9d5e-628ed4fda81e"/>
 			<Metadata name="Catalog.КнигиОтНиколаевой.TabularSection.Содержание" id="c537d792-fc7b-4a08-bd07-f5f7e3956516"/>
@@ -23,7 +24,7 @@
 		<Metadata name="Catalog.КнигиОтНиколаевой.ManagerModule" id="a9cb7bb1-7ace-44f4-8671-bf2d3431b1b9.3" configVersion="0d67349be43c0e488284ba02c1f1627100000000"/>
 		<Metadata name="Catalog.КнигиОтНиколаевой.ObjectModule" id="a9cb7bb1-7ace-44f4-8671-bf2d3431b1b9.0" configVersion="c1ecd8cbe620204ba103e982f1d3e2ec00000000"/>
 		<Metadata name="Catalog.КнигиОтНиколаевой.Predefined" id="a9cb7bb1-7ace-44f4-8671-bf2d3431b1b9.1c" configVersion="6412b9a23b6c294bb8db142eab6f4e9200000000"/>
-		<Metadata name="Catalog.КнижныйШкаф" id="367be93d-6690-43f4-845b-3bf7378b0518" configVersion="c3d44d517d1bee449dc7217bd999030700000000">
+		<Metadata name="Catalog.КнижныйШкаф" id="367be93d-6690-43f4-845b-3bf7378b0518" configVersion="90941f88b7d41348b949203c76cd618700000000">
 			<Metadata name="Catalog.КнижныйШкаф.Attribute.Автор" id="330f7b4a-b827-4e17-bed6-5d87f397cdac"/>
 			<Metadata name="Catalog.КнижныйШкаф.TabularSection.Сождержание.Attribute.Страница" id="7b57ba7c-04a3-4ce8-ba77-6887c04257b8"/>
 			<Metadata name="Catalog.КнижныйШкаф.TabularSection.Сождержание" id="d3aa2f0e-518c-4822-ad28-054e756c465c"/>
@@ -32,7 +33,7 @@
 		<Metadata name="Catalog.КнижныйШкаф.Form.ФормаЭлемента" id="5a1458c6-670e-40ed-9979-afb83adc37f0" configVersion="8097e0c73d6a494eaa28b207a70cad4300000000"/>
 		<Metadata name="Catalog.КнижныйШкаф.Form.ФормаЭлемента.Form" id="5a1458c6-670e-40ed-9979-afb83adc37f0.0" configVersion="cb67a888b3760543a765e6ecf9bd007e00000000"/>
 		<Metadata name="Catalog.КнижныйШкаф.Predefined" id="367be93d-6690-43f4-845b-3bf7378b0518.1c" configVersion="a9bc6e8a10f77046af2996ad70dc740b00000000"/>
-		<Metadata name="Catalog.ШкафНадСтолом" id="d8365c43-1dd1-4003-8fec-aebcc7c0144d" configVersion="1285408234c21846a3e4cccface524cc00000000">
+		<Metadata name="Catalog.ШкафНадСтолом" id="d8365c43-1dd1-4003-8fec-aebcc7c0144d" configVersion="6eec037ae81e1c4783123c49edc43fd300000000">
 			<Metadata name="Catalog.ШкафНадСтолом.TabularSection.Содержание.Attribute.Глава" id="1fb08baa-e01c-49b2-a100-d4b4ea170b58"/>
 			<Metadata name="Catalog.ШкафНадСтолом.TabularSection.Содержание.Attribute.Страница" id="2bd34296-a625-4d01-a6c6-ba158798665c"/>
 			<Metadata name="Catalog.ШкафНадСтолом.TabularSection.Содержание" id="d75d0e10-c6f1-4212-b609-7ddf842698d0"/>
@@ -45,7 +46,7 @@
 		<Metadata name="Catalog.ШкафНадСтолом.ManagerModule" id="d8365c43-1dd1-4003-8fec-aebcc7c0144d.3" configVersion="e7072e4075d74e49b7f4cf355d2878a000000000"/>
 		<Metadata name="Catalog.ШкафНадСтолом.ObjectModule" id="d8365c43-1dd1-4003-8fec-aebcc7c0144d.0" configVersion="01f0f30b347c4a43a8547cfd118887f800000000"/>
 		<Metadata name="Catalog.ШкафНадСтолом.Predefined" id="d8365c43-1dd1-4003-8fec-aebcc7c0144d.1c" configVersion="e1e396a84ba23e458f40a622bc68d0dc00000000"/>
-		<Metadata name="Catalog.ШкафПостель" id="efe69fea-fc7e-4821-a838-70940d808dbc" configVersion="800d405c9e548d418146d9700ac489e900000000">
+		<Metadata name="Catalog.ШкафПостель" id="efe69fea-fc7e-4821-a838-70940d808dbc" configVersion="cf89dfcd6640c545aa7b74ff64e01cfa00000000">
 			<Metadata name="Catalog.ШкафПостель.Attribute.Автор" id="545a909f-251d-48d8-be71-eec209d05678"/>
 			<Metadata name="Catalog.ШкафПостель.TabularSection.Содержание.Attribute.Страница" id="64ef9e60-510f-47f6-a483-719407436cd5"/>
 			<Metadata name="Catalog.ШкафПостель.TabularSection.Содержание.Attribute.Глава" id="91e5b817-edac-4567-8aaf-b5e30196fdaa"/>
@@ -58,7 +59,7 @@
 		<Metadata name="Catalog.ШкафПостель.ManagerModule" id="efe69fea-fc7e-4821-a838-70940d808dbc.3" configVersion="321c107047b03444a805f56041e89dde00000000"/>
 		<Metadata name="Catalog.ШкафПостель.ObjectModule" id="efe69fea-fc7e-4821-a838-70940d808dbc.0" configVersion="871e94941fcaa64086a77c5c41a9295f00000000"/>
 		<Metadata name="Catalog.ШкафПостель.Predefined" id="efe69fea-fc7e-4821-a838-70940d808dbc.1c" configVersion="d49c5b51cb4bd3469001e8d4677973ce00000000"/>
-		<Metadata name="Catalog.ШкафПосудный" id="f8c7d602-9850-4f72-9252-c7821b45d2f1" configVersion="798cfc0310e66d48ae7b2d4e073ecfe900000000">
+		<Metadata name="Catalog.ШкафПосудный" id="f8c7d602-9850-4f72-9252-c7821b45d2f1" configVersion="6d5f46a8df1c0b4495e8bb773d6cdb4a00000000">
 			<Metadata name="Catalog.ШкафПосудный.TabularSection.Содержание.Attribute.Глава" id="305a28a4-d224-4776-a0f4-d1788bb8058b"/>
 			<Metadata name="Catalog.ШкафПосудный.Attribute.Автор" id="5cd62835-5f96-4ccd-a784-50a93e277495"/>
 			<Metadata name="Catalog.ШкафПосудный.TabularSection.Содержание.Attribute.Страница" id="baaac372-b382-496f-9cd9-a773400c07ee"/>
@@ -71,7 +72,7 @@
 		<Metadata name="Catalog.ШкафПосудный.ManagerModule" id="f8c7d602-9850-4f72-9252-c7821b45d2f1.3" configVersion="790236f75fdec54189c65962f64413db00000000"/>
 		<Metadata name="Catalog.ШкафПосудный.ObjectModule" id="f8c7d602-9850-4f72-9252-c7821b45d2f1.0" configVersion="f52a606160f2d24d89b2a1b3a5567ba100000000"/>
 		<Metadata name="Catalog.ШкафПосудный.Predefined" id="f8c7d602-9850-4f72-9252-c7821b45d2f1.1c" configVersion="2b1dd240d7a1a945a2689cc26d4f5b8700000000"/>
-		<Metadata name="Catalog.ШкафТелевизор" id="839f4d4d-c984-4427-b1d3-24b6f30e116b" configVersion="5e2eb27053491544a9bc9cba0f4877eb00000000">
+		<Metadata name="Catalog.ШкафТелевизор" id="839f4d4d-c984-4427-b1d3-24b6f30e116b" configVersion="50b4a2cd735aaa4098f90834b8ddb2c000000000">
 			<Metadata name="Catalog.ШкафТелевизор.TabularSection.Содержание" id="1155bf1e-708f-43c4-883d-4b512f05c83b"/>
 			<Metadata name="Catalog.ШкафТелевизор.TabularSection.Содержание.Attribute.Страница" id="8f8cd771-1371-469a-a115-468afe3a8c69"/>
 			<Metadata name="Catalog.ШкафТелевизор.TabularSection.Содержание.Attribute.Глава" id="926497b6-ed3a-4d22-8e2f-e17a57d6b53e"/>
@@ -84,7 +85,7 @@
 		<Metadata name="Catalog.ШкафТелевизор.ManagerModule" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.3" configVersion="038ab87288d1c94a95bb8780a3f0f87c00000000"/>
 		<Metadata name="Catalog.ШкафТелевизор.ObjectModule" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.0" configVersion="24f24537f0604742baff791e3e5d061c00000000"/>
 		<Metadata name="Catalog.ШкафТелевизор.Predefined" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.1c" configVersion="c9e85f4f7041fb47aa07ae24a5cc22f800000000"/>
-		<Metadata name="Configuration.Конфигурация" id="58b328fb-3ee0-40c0-a7cf-7eb8c36a5666" configVersion="107c221736e2254a89e8a51c21d09c9000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="58b328fb-3ee0-40c0-a7cf-7eb8c36a5666" configVersion="3819b55b93a4384f9022e704dfb4e0c500000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="a02e991d-8f99-459b-8740-6f03bc866bfe.b" configVersion="2df2225d112f7540857eb19e32c6afc200000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="a02e991d-8f99-459b-8740-6f03bc866bfe.9" configVersion="0bc3eb8ae2c38e49a398a75b5d2496a700000000"/>
 		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="a02e991d-8f99-459b-8740-6f03bc866bfe.6" configVersion="7a43ef4b1bca5140911c895f79460b7400000000"/>

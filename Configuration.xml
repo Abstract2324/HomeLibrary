@@ -252,6 +252,7 @@
 			<Catalog>ШкафПостель</Catalog>
 			<Catalog>ШкафТелевизор</Catalog>
 			<Catalog>КнигиОтНиколаевой</Catalog>
+			<Catalog>Авторы</Catalog>
 			<DataProcessor>ПолучитьОбновления</DataProcessor>
 			<InformationRegister>ИсторияВерсий</InformationRegister>
 		</ChildObjects>
