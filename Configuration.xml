@@ -245,6 +245,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>Перемещение</CommonModule>
+			<CommonModule>ПеремещениеСервер</CommonModule>
 			<Catalog>КнижныйШкаф</Catalog>
 			<Catalog>КнигиВКладовке</Catalog>
 			<Catalog>ШкафНадСтолом</Catalog>

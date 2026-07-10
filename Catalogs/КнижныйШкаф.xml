@@ -62,7 +62,7 @@
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm>Catalog.КнижныйШкаф.Form.ФормаЭлемента</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
+			<DefaultListForm>Catalog.КнижныйШкаф.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
@@ -129,21 +129,21 @@
 			</Attribute>
 			<TabularSection uuid="d3aa2f0e-518c-4822-ad28-054e756c465c">
 				<InternalInfo>
-					<xr:GeneratedType name="CatalogTabularSection.КнижныйШкаф.Сождержание" category="TabularSection">
+					<xr:GeneratedType name="CatalogTabularSection.КнижныйШкаф.Содержание" category="TabularSection">
 						<xr:TypeId>70b0cd01-0644-4c68-99eb-d34dc74efeaa</xr:TypeId>
 						<xr:ValueId>3653558c-4e59-4d23-b22d-df49b1397d1e</xr:ValueId>
 					</xr:GeneratedType>
-					<xr:GeneratedType name="CatalogTabularSectionRow.КнижныйШкаф.Сождержание" category="TabularSectionRow">
+					<xr:GeneratedType name="CatalogTabularSectionRow.КнижныйШкаф.Содержание" category="TabularSectionRow">
 						<xr:TypeId>035a5adb-d8fe-47f5-b579-c2929356ab56</xr:TypeId>
 						<xr:ValueId>20dc08c0-a38c-462c-b6e7-e41b2c0ea86e</xr:ValueId>
 					</xr:GeneratedType>
 				</InternalInfo>
 				<Properties>
-					<Name>Сождержание</Name>
+					<Name>Содержание</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Сождержание</v8:content>
+							<v8:content>Содержание</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -239,6 +239,7 @@
 				</ChildObjects>
 			</TabularSection>
 			<Form>ФормаЭлемента</Form>
+			<Form>ФормаСписка</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
