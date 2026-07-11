@@ -101,8 +101,8 @@
 		<Metadata name="Catalog.ШкафТелевизор.Predefined" id="839f4d4d-c984-4427-b1d3-24b6f30e116b.1c" configVersion="c9e85f4f7041fb47aa07ae24a5cc22f800000000"/>
 		<Metadata name="CommonModule.Перемещение" id="6abcd5dd-41d8-4722-879d-bd5f6190d565" configVersion="029ee3f728aa4442a5ff29967110fd0a00000000"/>
 		<Metadata name="CommonModule.Перемещение.Module" id="6abcd5dd-41d8-4722-879d-bd5f6190d565.0" configVersion="6141c43b0e20bd498ed5ecdcc1996b0100000000"/>
-		<Metadata name="CommonModule.ПеремещениеСервер" id="18c339a5-65f8-40b6-ae00-42bd1f71ecff" configVersion="ead65703885a5342baae1b69bd658a1200000000"/>
-		<Metadata name="CommonModule.ПеремещениеСервер.Module" id="18c339a5-65f8-40b6-ae00-42bd1f71ecff.0" configVersion="fb7e2c7558fb0a49b69b9a5d1b80a7a500000000"/>
+		<Metadata name="CommonModule.ПеремещениеСервер" id="18c339a5-65f8-40b6-ae00-42bd1f71ecff" configVersion="d7e9127631e9f6468c4941976b8c342000000000"/>
+		<Metadata name="CommonModule.ПеремещениеСервер.Module" id="18c339a5-65f8-40b6-ae00-42bd1f71ecff.0" configVersion="4f7cb19bd9c8bc44a10a31fa2c4df88a00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="58b328fb-3ee0-40c0-a7cf-7eb8c36a5666" configVersion="e998d3773c209747b8fde175eb30115200000000"/>
 		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="a02e991d-8f99-459b-8740-6f03bc866bfe.b" configVersion="2df2225d112f7540857eb19e32c6afc200000000"/>
 		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="a02e991d-8f99-459b-8740-6f03bc866bfe.9" configVersion="0bc3eb8ae2c38e49a398a75b5d2496a700000000"/>
