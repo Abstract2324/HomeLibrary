@@ -255,6 +255,7 @@
 			<Catalog>ШкафТелевизор</Catalog>
 			<Catalog>КнигиОтНиколаевой</Catalog>
 			<Catalog>Авторы</Catalog>
+			<Report>СписокКниг</Report>
 			<DataProcessor>ПолучитьОбновления</DataProcessor>
 			<InformationRegister>ИсторияВерсий</InformationRegister>
 		</ChildObjects>
