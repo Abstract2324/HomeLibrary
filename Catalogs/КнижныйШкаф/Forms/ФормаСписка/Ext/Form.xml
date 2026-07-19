@@ -7,6 +7,11 @@
 				<CommandName>Form.Command.Переместить</CommandName>
 				<ExtendedTooltip name="ФормаПереместитьРасширеннаяПодсказка" id="26"/>
 			</Button>
+			<Button name="ФормаУдалитьВыбранные" id="27">
+				<Type>CommandBarButton</Type>
+				<CommandName>Form.Command.УдалитьВыбранные</CommandName>
+				<ExtendedTooltip name="ФормаУдалитьВыбранныеРасширеннаяПодсказка" id="28"/>
+			</Button>
 		</ChildItems>
 	</AutoCommandBar>
 	<ChildItems>
@@ -139,6 +144,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>Переместить</Action>
+		</Command>
+		<Command name="УдалитьВыбранные" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Удалить выбранные</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Удалить выбранные</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>УдалитьВыбранные</Action>
 		</Command>
 	</Commands>
 </Form>
